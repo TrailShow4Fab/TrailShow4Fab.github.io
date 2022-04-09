@@ -1,0 +1,11 @@
+body{
+margin:0px;
+}
+#header{
+height:40px;
+background:#E10020;
+}
+.title {
+  font-weight: bold;
+  color: white;
+}
